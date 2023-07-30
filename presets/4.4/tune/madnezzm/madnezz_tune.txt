@@ -333,7 +333,7 @@ rateprofile 0
 
 # rateprofile 0
 set rateprofile_name = -
-set thr_mid = 25
+set thr_mid = 30
 set thr_expo = 40
 set rates_type = ACTUAL
 set quickrates_rc_expo = OFF
@@ -358,7 +358,7 @@ rateprofile 1
 
 # rateprofile 1
 set rateprofile_name = -
-set thr_mid = 25
+set thr_mid = 35
 set thr_expo = 40
 set rates_type = ACTUAL
 set quickrates_rc_expo = OFF
@@ -372,7 +372,7 @@ set roll_srate = 37
 set pitch_srate = 37
 set yaw_srate = 35
 set throttle_limit_type = SCALE
-set throttle_limit_percent = 70
+set throttle_limit_percent = 80
 set roll_rate_limit = 1998
 set pitch_rate_limit = 1998
 set yaw_rate_limit = 1998
